@@ -19,7 +19,6 @@ _Collaborate and work together on GitHub._
 -->
 
 <details id=0>
-<h2 hidden>Thankyou for playing</h2>
 <summary><h2>Welcome</h2></summary>
 
 All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
